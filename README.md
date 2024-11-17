@@ -10,7 +10,7 @@ I am a student in computer science with a strong passion for **data science**. I
 - **Movie Recommender System**  
 - **Diabetes Prediction using SVM**
 
-✍️ **Fun Fact**: I love sharing my knowledge and experiences through blogs on [Hashnode](https://hashnode.com/@sparshkhanal).
+✍️ **Extras**: I love sharing my knowledge and experiences through blogs on [Hashnode](https://hashnode.com/@sparshkhanal).
 
 ---
 
