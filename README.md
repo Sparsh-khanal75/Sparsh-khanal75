@@ -12,11 +12,14 @@ I am a student in computer science with a strong passion for **data science**. I
  
 </div>
 
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh-khanal75&theme=dark&hide_border=true&background=000000&stroke=DD2727&ring=8800FF&fire=DD2727&currStreakLabel=8800FF)
 
 
 
 <!-- Most Used Languages -->
-### 🚀 **Languages I Use**
+### 🚀 **Languages **
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh-khanal75&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
