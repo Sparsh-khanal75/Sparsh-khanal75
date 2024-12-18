@@ -4,9 +4,14 @@ I am a student in computer science with a strong passion for **data science**. I
 
 ---
 
-## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sparsh-khanal75&theme=dark)
+<!-- GitHub Stats -->
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sparsh-khanal75&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sparsh-khanal75&theme=tokyonight" alt="GitHub Streak Stats" width="49%" />
+</div>
+
 
 
 ## 🛠️ Working On
