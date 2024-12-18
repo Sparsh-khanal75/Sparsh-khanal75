@@ -5,17 +5,6 @@ I am a student in computer science with a strong passion for **data science**. I
 ---
 
 
-<!-- GitHub Stats -->
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sparsh-khanal75&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
- 
-</div>
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sparsh-khanal75)
-
 
 <!-- Most Used Languages -->
 ### 🚀 **Languages **
@@ -50,3 +39,10 @@ I am a student in computer science with a strong passion for **data science**. I
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sparshkhanal)
 
 ---
+
+<!-- GitHub Stats -->
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sparsh-khanal75&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+ 
+</div>
