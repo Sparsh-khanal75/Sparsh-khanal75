@@ -16,7 +16,7 @@ I am a student in computer science with a strong passion for **data science**. I
 
 ## 🧰 Skills
 
-- **Programming**: Python (NumPy, Pandas)  
+- **Programming**: Python (NumPy, Pandas,ScikitLearn)  
 - **Data Visualization**: Seaborn, Matplotlib  
 - **Database Management**: SQL  
 - **Tools**: VS Code, IntelliJ, Eclipse, GitHub  
