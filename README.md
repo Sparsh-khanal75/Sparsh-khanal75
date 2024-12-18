@@ -14,9 +14,7 @@ I am a student in computer science with a strong passion for **data science**. I
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sparsh-khanal75&theme=dark&hide_border=true&background=000000&stroke=DD2727&ring=8800FF&fire=DD2727&currStreakLabel=8800FF)
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sparsh-khanal75)
 
 
 <!-- Most Used Languages -->
