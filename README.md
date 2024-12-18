@@ -12,11 +12,19 @@ I am a student in computer science with a strong passion for **data science**. I
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sparsh-khanal75&theme=tokyonight" alt="GitHub Streak Stats" width="49%" />
 </div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sparsh-khanal75&theme=tokyonight" alt="GitHub Streak Stats" width="49%" />
+
+
+<!-- Most Used Languages -->
+### 🚀 **Languages I Use**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh-khanal75&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 ## 🛠️ Working On
 
-👨‍💻 **Current Projects**:  
+👨‍💻 **  Projects**:  
 - **Movie Recommender System**  
 - **Diabetes Prediction using SVM**
 
