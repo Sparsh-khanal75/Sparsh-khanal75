@@ -7,7 +7,7 @@ I am a student in computer science with a strong passion for **data science**. I
 
 
 <!-- Most Used Languages -->
-### 🚀 **Languages **
+### 🚀 Languages 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh-khanal75&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -15,7 +15,7 @@ I am a student in computer science with a strong passion for **data science**. I
 
 ## 🛠️ Working On
 
-👨‍💻 **  Projects**:  
+👨‍💻 Projects:  
 - **Movie Recommender System**  
 - **Diabetes Prediction using SVM**
 
@@ -41,7 +41,7 @@ I am a student in computer science with a strong passion for **data science**. I
 ---
 
 <!-- GitHub Stats -->
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sparsh-khanal75&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
  
