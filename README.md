@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-I am a student in computer science with a strong passion for **data science**. I enjoy exploring and applying data-driven solutions to real-world challenges.
+I am a computer science student in with a strong passion for **data science**. I enjoy exploring and applying data-driven solutions to real-world challenges.
 
 ---
 
