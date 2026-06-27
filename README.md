@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sparsh Khanal</h1>
+<h1 align="center">Sparsh Khanal</h1>
 
 <h3 align="center">
 Cybersecurity Enthusiast • SOC Analyst Aspirant • Computer Science Student
