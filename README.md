@@ -1,7 +1,7 @@
 <h1 align="center">Sparsh Khanal</h1>
 
 <h3 align="center">
-Cybersecurity Enthusiast • SOC Analyst Aspirant • Computer Science Student
+Computer Science Engineer • Blue Team / SOC • AI/ML Researcher (IEEE)
 </h3>
 
 <p align="center">
@@ -12,9 +12,34 @@ Cybersecurity Enthusiast • SOC Analyst Aspirant • Computer Science Student
 
 # 💫 About Me
 
-🛡️ Passionate about Cybersecurity and Defensive Security
+🛡️ Computer Science Engineering graduate who works where **machine learning meets defensive security** — I build detection tools, investigate simulated intrusions, and published IEEE research on multi-model fusion for medical image classification.
 
-🎯 Currently focused on
+🎓 **B.E. Computer Science & Engineering** — CMR Institute of Technology (VTU), 2026 · **CGPA 8.18, First Class with Distinction**
+Top grades in security coursework: Privacy & Security in Online Social Media (**O**), Cryptography & Network Security (**A**), Computer Networks (**A+**)
+
+🎯 Next step: a Master's degree in Computer Science / Cybersecurity, focused on applying AI to threat detection.
+
+---
+
+# 📄 Research
+
+**A Multi-Modal Entropy-Weighted Fusion Framework for Melanoma Detection** — *IEEE, IITCEE 2026*
+Co-authored with Samved Vyas, Reet Nayan and Dr. Prem Kumar Ramesh
+An ensemble of Vision Transformer, ResNet-50 and MobileNetV3 combined through entropy-weighted fusion, reaching **91.2% accuracy**. My contribution: designing and implementing the model-fusion strategy and evaluating ensemble configurations.
+
+---
+
+# 🧪 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🔎 [**Log Hunter**](https://github.com/Sparsh-khanal75/SOC_L1/tree/main/Log_Hunter) | Hunts SQLi, XSS, LFI, command injection and brute-force in web logs; flags attacks that likely succeeded; maps findings to MITRE ATT&CK | Python, regex, sliding-window detection |
+| 🕵️ [**Cybersecurity Write-ups**](https://github.com/Sparsh-khanal75/Cybersecurity_Writeups) | DFIR & SOC investigation reports — Boogeyman 1-3, Tempest, Summit, Greenholt Phish, ItsyBitsy and more | Splunk, Wireshark, Sysmon, EVTX |
+| 📘 [**SOC L1 Notes**](https://github.com/Sparsh-khanal75/SOC_L1) | Notes on EDR, Cyber Kill Chain, Pyramid of Pain, network traffic analysis, Wireshark cheat sheet | Blue-team methodology |
+| 🎭 [**Deepfake Detection System**](https://github.com/AnupDangi/Deepfake_detection_System_Internship_Project) | Internship project detecting manipulated media with deep learning | Python, Deep Learning |
+| 📰 [**Fake News Detection**](https://github.com/Sparsh-khanal75/fake_news_detection) | NLP classifier for misinformation | Python, ML |
+
+🎯 Security focus areas
 
 - SOC Operations
 - SIEM (Splunk)
@@ -36,8 +61,8 @@ Cybersecurity Enthusiast • SOC Analyst Aspirant • Computer Science Student
 
 # 🚀 Current Focus
 
-- 🔍 SOC Level 1
-- 🛡️ SOC Level 2
+- ✅ TryHackMe SOC Level 1 — completed
+- 🛡️ TryHackMe SOC Level 2 — in progress (log analysis)
 - ⚔️ Threat Detection Engineering
 - 📊 Splunk
 - 🧠 Security+
@@ -86,7 +111,8 @@ Cybersecurity Enthusiast • SOC Analyst Aspirant • Computer Science Student
 
 # 📝 Latest Articles
 
-- 🛡️ EDR Explained: How Endpoint Detection and Response Detects Modern Threats
+- 🛡️ [EDR Explained: How Endpoint Detection and Response Detects Modern Threats](https://medium.com/@sparshofficial75)
+- 🦈 [Wireshark Cheat Sheet](https://medium.com/@sparshofficial75)
 
 *(More cybersecurity articles coming soon...)*
 
@@ -94,11 +120,12 @@ Cybersecurity Enthusiast • SOC Analyst Aspirant • Computer Science Student
 
 # 🏆 Achievements
 
-🥉 Co-author of an IEEE Research Paper
-
-🏅 Active TryHackMe Learner
-
-📖 Technical Blogger
+- 📄 Co-author, IEEE-published research paper (IITCEE 2026)
+- 🥇 **1st place** — OpsFusion Hackathon (AIML Department, CMRIT)
+- 🏅 Selected at college level for **Smart India Hackathon**
+- 🛡️ Completed TryHackMe **SOC Level 1** path
+- 🎓 First Class with Distinction, B.E. CSE (CGPA 8.18)
+- ✍️ Technical blogger on [Medium](https://medium.com/@sparshofficial75)
 
 ---
 
