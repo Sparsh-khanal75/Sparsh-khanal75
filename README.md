@@ -31,13 +31,14 @@ An ensemble of Vision Transformer, ResNet-50 and MobileNetV3 combined through en
 
 # 🧪 Featured Projects
 
-| Project | What it does | Stack |
+| Project | What it does | Highlights |
 |---|---|---|
-| 🔎 [**Log Hunter**](https://github.com/Sparsh-khanal75/SOC_L1/tree/main/Log_Hunter) | Hunts SQLi, XSS, LFI, command injection and brute-force in web logs; flags attacks that likely succeeded; maps findings to MITRE ATT&CK | Python, regex, sliding-window detection |
-| 🕵️ [**Cybersecurity Write-ups**](https://github.com/Sparsh-khanal75/Cybersecurity_Writeups) | DFIR & SOC investigation reports — Boogeyman 1-3, Tempest, Summit, Greenholt Phish, ItsyBitsy and more | Splunk, Wireshark, Sysmon, EVTX |
-| 📘 [**SOC L1 Notes**](https://github.com/Sparsh-khanal75/SOC_L1) | Notes on EDR, Cyber Kill Chain, Pyramid of Pain, network traffic analysis, Wireshark cheat sheet | Blue-team methodology |
+| 🧠 [**ML Intrusion Detection**](https://github.com/Sparsh-khanal75/ml-intrusion-detection) | Layered network IDS on NSL-KDD: three supervised models fused by **entropy-weighted fusion** (from my IEEE research) plus an Isolation Forest anomaly layer for unseen attacks | F1 **0.840** vs 0.804 best single model; unseen-attack detection **41% → 65%** |
+| 🛡️ [**Sysmon Detection Engine**](https://github.com/Sparsh-khanal75/sysmon-detection-engine) | Sigma-compatible rule engine for Windows Sysmon logs with a condition parser, PowerShell `-enc` decoding, **process-tree correlation** and ATT&CK Navigator export | 14 rules · 17 techniques · 15 alerts → 1 incident, 0 false positives on sample |
+| 🎣 [**Phishing Email Analyzer**](https://github.com/Sparsh-khanal75/phishing-email-analyzer) | Triages `.eml` files: SPF/DKIM/DMARC, Reply-To tricks, **typosquat / homoglyph / IDN look-alike domains**, link-text mismatch, magic-byte attachment checks; explainable score + defanged IOCs | Catches vendor-compromise mail that **passes** DMARC |
+| 🔎 [**Log Hunter**](https://github.com/Sparsh-khanal75/SOC_L1/tree/main/Log_Hunter) | Web access-log threat hunting: SQLi, XSS, LFI, command injection, brute-force; flags attacks that likely **succeeded** | Sliding-window detection, MITRE mapping |
 | 🎭 [**Deepfake Detection System**](https://github.com/AnupDangi/Deepfake_detection_System_Internship_Project) | Internship project detecting manipulated media with deep learning | Python, Deep Learning |
-| 📰 [**Fake News Detection**](https://github.com/Sparsh-khanal75/fake_news_detection) | NLP classifier for misinformation | Python, ML |
+| 🕵️ [**DFIR Investigation Write-ups**](https://github.com/Sparsh-khanal75/Cybersecurity_Writeups) | Incident investigations: Boogeyman 1-3, Tempest, Summit, Greenholt Phish, ItsyBitsy | Splunk, Wireshark, Sysmon, EVTX |
 
 🎯 Security focus areas
 
